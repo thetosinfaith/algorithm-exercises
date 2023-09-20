@@ -1,4 +1,5 @@
 import sys
+# whats this import statement doing??
 
 user_Input1 = int(input("Please, enter a number: "))
 user_Input2 = int(input("Please, enter a number: "))
@@ -18,3 +19,4 @@ print(product)
 print(smallest)
 print(largest)
 
+# you can use on print for all the print statement
