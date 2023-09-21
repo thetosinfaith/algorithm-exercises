@@ -1,5 +1,3 @@
-import sys
-
 user_Input1 = int(input("Please, enter a number: "))
 user_Input2 = int(input("Please, enter a number: "))
 user_Input3 = int(input("Please, enter a number: "))

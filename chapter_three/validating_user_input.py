@@ -1,4 +1,4 @@
-#Exercises 3.1
+#class_exercises 3.1
 
 user_input = 0
 total_choices = 0
