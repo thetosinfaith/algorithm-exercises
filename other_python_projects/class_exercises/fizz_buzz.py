@@ -15,7 +15,3 @@ for i in range(1, 51):
 
             else:
                 print(i)
-
-
-            # if i % 3 % 5 == 0:
-            #     print("FizzBuzz")
