@@ -1,8 +1,7 @@
 #Exercise 3.4
 
-asterick_first = ["@@@@@@@"]
-asterick_second = ["@@@@@@@"]
+for i in range(0, 2):
+    for j in range(i):
+        print("@@@@@@@")
+        print("@@@@@@@")
 
-for i in asterick_first:
-    for j in asterick_second:
-        print(i, j)
