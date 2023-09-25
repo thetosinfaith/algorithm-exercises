@@ -15,4 +15,3 @@ Welcome to the Function Calculator!
     """)
 
     function_calculator(4, 5)
-
