@@ -1,3 +1,5 @@
+# why are you putting it in a loop ?
+# why are using a print statement to display your menu when you can put the menu message in an input function
 while True:
     print("Nokia 3310 App")
     print("""
@@ -47,3 +49,6 @@ while True:
         print("Sim Services")
     else:
         print("Wrong input! Try again")
+
+# what about the option inside Phoenbook, Message and others ??
+# dont be lazy, africa most celebrated woman in tech
