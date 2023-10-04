@@ -7,3 +7,5 @@ for duplicates in items_on_list:
         new_list.append(duplicates)
 
         print(new_list)
+
+# correct the logical error in the code
