@@ -5,3 +5,4 @@ multiply = items_on_list[0] * items_on_list[1] * items_on_list[2] * items_on_lis
 print(multiply)
 
 
+# pls rewrite this code using for loop
