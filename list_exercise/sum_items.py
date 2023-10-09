@@ -8,5 +8,5 @@ for i in range(len(items_on_list)):
 
 sum += items_on_list[i]
 
-print(“The sum of the list is”, sum)
+# print(“The sum of the list is”, sum)
 
